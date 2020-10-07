@@ -20,7 +20,7 @@ root {
 /* BACKEND GENERAL ELEMENTS
    -------------------------------------------------------------------- */
 #header {
-    background-color: #39c678;
+    background-color: #bdbec0 ;
     border-bottom: 4px solid #c0f1d6;
     box-shadow: none;
     border-radius: 0;
@@ -70,8 +70,8 @@ root {
 }
 
 #header #header-menu .active {
-    color: #C5FFD6;
-    background: #29A067;
+    color: #717273;
+    background: #121313 ;
 }
 
 #footer {
@@ -155,7 +155,7 @@ body .modal .modal-title {
 
 body .modal-header {
     padding: 12px 15px;
-    background: #39c678;
+    background: #bdbec0 ;
     border-bottom: 4px solid #c0f1d6;
 }
 
@@ -167,7 +167,7 @@ body .modal-header h3 {
 
 body .modal-header .close {
     margin-top: 2px;
-    color: #12482a;
+    color: #434445;
 }
 
 body .modal-content {
@@ -252,7 +252,7 @@ body legend {
 
 .backend-page .filter-records .results .entry.selected {
     background-color: #F4F4F4;
-    border-right: 5px solid #39c678;
+    border-right: 5px solid #bdbec0;
 }
 
 .backend-page .filter-records .results hr {
@@ -411,7 +411,7 @@ body legend {
 }
 
 #existing-customers-list div:hover {
-    background: #3DD481;
+    background: #d3d4d5;
     font-weight: bold;
     color: #FFF;
     cursor: pointer;
@@ -495,7 +495,7 @@ body .form-horizontal .controls {
 }
 
 #calendar .calendar-view .date-column .provider-column .event.unavailability {
-    background: #409482;
+    background: #5e5f60;
     color: #fff;
 
 }
@@ -629,7 +629,7 @@ body .form-horizontal .controls {
 
 #users-page #providers .switch-view .current {
     color: #FFF;
-    background: #39c678;
+    background: #bdbec0 ;
 }
 
 #users-page #providers .details-view,

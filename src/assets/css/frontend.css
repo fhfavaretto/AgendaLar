@@ -45,7 +45,7 @@ body {
 #book-appointment-wizard #header {
     padding: 5px;
     height: 90px;
-    background: #3DD481;
+    background: #d3d4d5;
     border-bottom: 4px solid #c0f1d6;
 }
 
@@ -126,7 +126,7 @@ body {
 }
 
 #book-appointment-wizard .active-step strong {
-    color: #4cc281;
+    color: #bdbec0;
     font-size: 18px;
 }
 
@@ -189,7 +189,7 @@ body {
 }
 
 #book-appointment-wizard .captcha-title .glyphicon-refresh:hover {
-    color: #1A865F;
+    color: #8d8d8d;
 }
 
 #book-appointment-wizard .captcha-image {
