@@ -54,13 +54,7 @@
          <div class = "welcome">
             <h3> Bem-vindo à página de instalação do CalendLar. </h3>
             <p>
-               Esta página o ajudará a definir as configurações principais da instalação do CalendLar.
-               Você será capaz de editar essas configurações e muito mais na sessão de back-end do seu
-               sistema. Lembre-se de usar o <strong class="text-primary"><?= site_url('backend') ?></strong>
-               url para se conectar à seção de back-end do CalendLar.
-               Se você enfrentar qualquer problema durante o uso do CalendLar, você pode sempre verificar o
-               <a href="https://github.com/fhfavaretto/CalendLar/wiki"> Wiki </a>
-               e <a href="http://172.16.0.5/"> GlPI </a> para obter ajuda. Vocês
+               Esta página o ajudará a definir as configurações principais da instalação do CalendLar. Você será capaz de editar essas configurações e muito mais na sessão de back-end do seu sistema. Lembre-se de usar o url para se conectar à seção de back-end do CalendLar. Se você enfrentar qualquer problema durante o uso do CalendLar, você pode sempre verificar o <a href="https://github.com/fhfavaretto/CalendLar/wiki"> Wiki</a> e <a href="http://172.16.0.5/"> GlPI </a> para obter ajuda. Vocês
                também pode enviar novos problemas em
                <a href="https://github.com/fhfavaretto/CalendLar/issues"> GitHub issues(problemas) </a>
                para auxiliar nosso processo de desenvolvimento.
@@ -136,7 +130,7 @@
          Instalar CalendLar</button>
       </div>
       <footer>
-         Desenvolvido em  <a href="http://www.franciscanosnaprovidencia.org.br/">CalendLar</a>
+         Desenvolvido em  <a href="http://www.franciscanosnaprovidencia.org.br/">Associação Lar São Francisco</a>
       </footer>
       <script>
          var GlobalVariables = {

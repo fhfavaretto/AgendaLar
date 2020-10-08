@@ -79,7 +79,7 @@
     </div>
 
     <footer>
-        Desenvolvido em  <a href="http://www.franciscanosnaprovidencia.org.br/">CalendLar</a>
+        Desenvolvido em  <a href="http://www.franciscanosnaprovidencia.org.br/">Associação Lar são Francisco</a>
     </footer>
 </body>
 </html>

@@ -335,7 +335,7 @@
 
                 <div id="frame-footer">
                     Desenvolvido em
-                    <a href="http://www.franciscanosnaprovidencia.org.br/" target="_blank">CalendLar</a>
+                    <a href="http://www.franciscanosnaprovidencia.org.br/" target="_blank">Associação Lar São Francisco</a>
                     |
                     <span id="select-language" class="label label-success">
     		        	<?= ucfirst($this->config->item('language')) ?>

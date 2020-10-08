@@ -62,7 +62,7 @@
         <div id="footer" style="padding: 10px; text-align: center; margin-top: 10px;
                 border-top: 1px solid #EEE; background: #FAFAFA;">
             Desenvolvido em 
-            <a href="http://www.franciscanosnaprovidencia.org.br/" style="text-decoration: none;">CalendLar</a>
+            <a href="http://www.franciscanosnaprovidencia.org.br/" style="text-decoration: none;">associação Lar São Francisco</a>
             |
             <a href="$company_link" style="text-decoration: none;">$company_name</a>
         </div>

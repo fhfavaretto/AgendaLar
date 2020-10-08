@@ -1,7 +1,7 @@
 <div id="footer">
     <div id="footer-content" class="col-xs-12 col-sm-8">
         Desenvolvido em
-        <a href="http://www.franciscanosnaprovidencia.org.br/">CalendLar
+        <a href="http://www.franciscanosnaprovidencia.org.br/"> Associação Lar São Francisco
             <?php
                 echo 'v' . $this->config->item('version');
 
