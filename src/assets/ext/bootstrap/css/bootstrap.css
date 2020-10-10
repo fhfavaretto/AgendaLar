@@ -3193,7 +3193,7 @@ fieldset[disabled] .btn-primary.active {
 }
 .btn-success {
   color: #ffffff;
-  background-color: #35b66f;
+  background-color: #000000;
   border-color: transparent;
 }
 .btn-success:focus,
@@ -4934,11 +4934,11 @@ a.label:focus {
   background-color: #3276ac;
 }
 .label-success {
-  background-color: #35b66f;
+  background-color: #666;
 }
 .label-success[href]:hover,
 .label-success[href]:focus {
-  background-color: #298f57;
+  background-color: #000;
 }
 .label-info {
   background-color: #27b09e;

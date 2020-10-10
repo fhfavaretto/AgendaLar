@@ -20,8 +20,8 @@ root {
 /* BACKEND GENERAL ELEMENTS
    -------------------------------------------------------------------- */
 #header {
-    background-color: #bdbec0 ;
-    border-bottom: 4px solid #c0f1d6;
+    background-color: #666 ;
+    border-bottom: 4px solid #000;
     box-shadow: none;
     border-radius: 0;
     margin-bottom: 15px;
@@ -41,19 +41,19 @@ root {
 #header #header-logo span {
     float: left;
     font-size: 16px;
-    color: white;
+    color: black;
     margin-top: 14px;
     font-weight: lighter;
 }
 
 #header .navbar-header .navbar-toggle .icon-bar {
-    background: white;
+    background: rgb(131, 24, 24);
 }
 
 #header #header-menu .menu-item {
     cursor: pointer;
     min-width: 130px;
-    color: #FFF;
+    color: #fff;
     text-align: center;
     text-decoration: none;
     font-size: 14px;
@@ -66,7 +66,7 @@ root {
 }
 
 #header #header-menu .menu-item:hover:not(.active) {
-    background-color: #2A8F57;
+    background-color: #bababa;
 }
 
 #header #header-menu .active {
@@ -156,7 +156,7 @@ body .modal .modal-title {
 body .modal-header {
     padding: 12px 15px;
     background: #bdbec0 ;
-    border-bottom: 4px solid #c0f1d6;
+    border-bottom: 4px solid #ffffff;
 }
 
 body .modal-header h3 {
@@ -391,7 +391,7 @@ body legend {
 
 #calendar .fc-event {
     border: 1px solid #666;
-    background-color: #4790CA;
+    background-color: #666;
 }
 
 #existing-customers-list {
