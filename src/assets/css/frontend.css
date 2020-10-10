@@ -19,7 +19,7 @@ body {
 }
 
 body {
-    background-color: #CAEDF3;
+    background-color: #FAFAFA;
 }
 
 #main {
@@ -37,7 +37,7 @@ body {
  ------------------------------------------------------------------------------ */
 #book-appointment-wizard {
     background: #FFF;
-    box-shadow: 0px 1px 1px #B6B6B6;
+    box-shadow: 0px 1px 1px #666;
     min-height: 480px;
     padding: 0;
 }
@@ -45,8 +45,8 @@ body {
 #book-appointment-wizard #header {
     padding: 5px;
     height: 90px;
-    background: #d3d4d5;
-    border-bottom: 4px solid #c0f1d6;
+    background: #737373;
+    border-bottom: 4px solid #737373;
 }
 
 #book-appointment-wizard #company-name {
@@ -103,14 +103,14 @@ body {
     padding: 1px;
     margin-right: 10px;
     margin-top: 9px;
-    border: 3px solid #79e2a8;
+    border: 3px solid #666666;
 }
 
 #book-appointment-wizard .book-step strong {
     font-size: 12px;
     display: block;
     text-align: center;
-    color: #A9C5BB;
+    color: #333;
 }
 
 #book-appointment-wizard .active-step {
@@ -122,11 +122,11 @@ body {
     padding: 1px;
     margin-right: 10px;
     margin-top: 3px;
-    border: 3px solid #c0f1d6;
+    border: 3px solid #666;
 }
 
 #book-appointment-wizard .active-step strong {
-    color: #bdbec0;
+    color: #666;
     font-size: 18px;
 }
 

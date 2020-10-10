@@ -9,7 +9,7 @@
       <link rel="stylesheet" type="text/css" href="<?= asset_url('assets/css/general.css') ?>">
       <style>
          header {
-         background: #DAFFEB;
+         background: #ededed;
          margin-bottom: 25px;
          }
          .content {
